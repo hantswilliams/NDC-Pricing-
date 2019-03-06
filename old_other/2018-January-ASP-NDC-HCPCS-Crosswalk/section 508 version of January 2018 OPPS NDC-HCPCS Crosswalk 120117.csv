@@ -1,0 +1,39 @@
+January 2018 OPPS NDC - HCPCS Crosswalk for Medicare Part B Drugs,,,,,,,,,
+"     Effective January 1, 2018 through March 31, 2018",,,,,,,,,
+,,,,,,,,,
+Note 1: This crosswalk is based on published drug and biological pricing data and information submitted to CMS by manufacturers. The information is intended to support ASP-based ,,,,,,,,,
+Medicare Part B payments only. ,,,,,,,,,
+Note 2: Please submit comments on the crosswalk to e-mail address: sec303aspdata@cms.hhs.gov. ,,,,,,,,,
+,,,,,,,,,
+_2018_CODE,Short Descriptor,LABELER NAME,NDC or ALTERNATE ID,Drug Name,HCPCS Dosage,PKG SIZE,PKG QTY,BILLUNITS,BILLUNITSPKG
+A9515,"Choline C 11, diagnostic",ZEVACOR MOLECULAR,69126-0004-01,CHOLINE C 11,Per Study Dose,30,1,1,1
+A9543,"Y90 ibritumomab, rx",Spectrum Pharmaceuticals,68152-0103-03,ZEVALIN Y-90,UP TO 40 millicuries,1,1,1,1
+A9587,Gallium Ga-68,Advanced Accelerator Applications,69488-0001-40,NETSPOT,0.1 mCi,1,1,54,54
+A9588,Fluciclovine F-18,Blue Earth Diagnostics,69932-0001-01,AXUMIN,1 mCi,5,1,10,10
+A9600,Sr89 strontium,GE Healthcare,17156-0524-01,METASTRON,PER MILLICURIE,4,1,4,4
+A9604,Sm 153 lexidronam,"Lantheus Medical Imaging, Inc.",11994-0016-01,QUADRAMET,up to 150 millicuries,3,1,1,1
+A9606,Radium Ra223 dichloride ther,Bayer HealthCare Pharmaceuticals Inc.,50419-0208-01, Xofigo,1 mCi,6,1,1,1
+C9014,"Injection, cerliponase alfa",BIOMARIN PHARMACEUTICAL. INC.,68135-0811-02,Brineura,1 MG,1,2,150,300
+C9015,"C-1 esterase, Haegarda",CSL BEHRING,63833-0828-02,Haegarda,10 UNITS,1,1,200,200
+C9015,"C-1 esterase, Haegarda",CSL BEHRING,63833-0829-02,Haegarda,10 UNITS,1,1,300,300
+C9016,"Inj, triptorelin ext rel",ARBOR PHARMACEUTICALS,24338-0150-20,Triptodur,3.75 MG,1,1,6,6
+C9024,"Inj, daunorubicin-cytarabine","JAZZ PHARMACEUTICALS, INC.",68727-0745-01,Vyxeos,1 MG/2.27 MG,1,1,44,44
+C9024,"Inj, daunorubicin-cytarabine","JAZZ PHARMACEUTICALS, INC.",68727-0745-02,Vyxeos,1 MG/2.27 MG,1,2,44,88
+C9024,"Inj, daunorubicin-cytarabine","JAZZ PHARMACEUTICALS, INC.",68727-0745-05,Vyxeos,1 MG/2.27 MG,1,5,44,220
+C9028,Inj. inotuzumab ozogamicin,WYETH PHARMACEUTICALS,00008-0100-01,Besponsa,0.1 MG,1,1,9,9
+C9029,"Injection, guselkumab","JANSSEN BIOTECH, INC.",57894-0640-01,Tremfya,1 MG,1,1,100,100
+C9132,"Kcentra, per i.u.",CSL Behring GmbH,63833-0386-02,Kcentra,1 IU,1,1,1,1
+C9132,"Kcentra, per i.u.",CSL Behring GmbH,63833-0387-02,Kcentra,1 IU,1,1,1,1
+C9250,Artiss fibrin sealant,Baxter Healthcare Corporation,00944-8503-02,ARTISS,2 ML,1,1,1,1
+C9250,Artiss fibrin sealant,Baxter Healthcare Corporation,00944-8503-04,ARTISS,2 ML,1,1,2,2
+C9250,Artiss fibrin sealant,Baxter Healthcare Corporation,00944-8503-10,ARTISS,2 ML,1,1,5,5
+C9257,Bevacizumab injection,"Genentech, Inc.",50242-0060-01,Avastin,0.25 MG,4,1,400,400
+C9257,Bevacizumab injection,"Genentech, Inc.",50242-0061-01,Avastin,0.25 MG,16,1,1600,1600
+C9293,"Injection, glucarpidase ",BTG International,50633-0210-11,Voraxaze,10 Units,1,1,100,100
+C9460,"Injection, cangrelor",The Medicines Company,65293-0003-10,KENGREAL,1 MG,1,10,50,500
+C9482,Sotalol hydrochloride IV,ALTATHERA PHARMACEUTICALS LLC,69724-0112-10,Sotalol,1MG,10,1,150,150
+C9488,Conivaptan HCL,"CUMBERLAND PHARMACEUTICALS, INC.",66220-0160-10,VAPRISOL,1 MG,100,1,20,20
+C9492,"Injection, durvalumab","ASTRAZENECA PHARMACEUTICALS, LP",00310-4500-12,Imfinzi,10 MG,2.4,1,12,12
+C9492,"Injection, durvalumab","ASTRAZENECA PHARMACEUTICALS, LP",00310-4611-50,Imfinzi,10 MG,10,1,50,50
+C9493,"Injection, edaravone","MT PHARMA AMERICA, INC.",70510-2171-02,RADICAVA,1 MG,100,2,30,60
+C9497,"Loxapine, inhalation powder",GATE PHARMACEUTICALS,57844-0510-55,ADASUVE,10 MG,1,5,1,5

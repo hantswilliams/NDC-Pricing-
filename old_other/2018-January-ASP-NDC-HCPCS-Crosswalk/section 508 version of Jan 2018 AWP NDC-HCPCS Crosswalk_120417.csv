@@ -1,0 +1,209 @@
+January 2018 NDC - HCPCS  Crosswalk for Medicare Part B Drugs,,,,,,,,,
+"Effective January 1, 2018 through March 31, 2018",,,,,,,,,
+,,,,,,,,,
+The ASP crosswalks are maintained by the Division of Ambulatory Services to support ASP-based Medicare Part B payments only. The crosswalks are intended to help the public (including entities that submit manufacturer ASP data and providers who bill for drugs) understand which drug products (identified by NDCs) are assigned to which HCPCS billing codes. The crosswalks are not intended to be a comprehensive list of all drugs/NDCs available in the United States. The NDC to HCPCS Crosswalk also includes information on the NDC package size and the number of billable units (as defined by the HCPCS code descriptor). Comments on the file may be sent to sec303aspdata@cms.hhs.gov.,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+HCPCS Code,Short Descriptor,LABELER NAME,NDC,DRUG NAME,HCPCS DOSAGE,PKG SIZE,PKG QTY,BILLUNITS,BILLUNITSPKG
+90630,Flu vacc iiv4 no preserv id,Sanofi Pasteur,49281-0710-40,Fluzone Intradermal Quadrivalent (Preservative Free) 2016/2017,0.1 ML,0.1,10,1,10
+90630,Flu vacc iiv4 no preserv id,Sanofi Pasteur,49281-0712-40,Fluzone Intradermal Quadrivalent (Preservative Free) 2017/2018,0.1 ML,0.1,10,1,10
+90653,Iiv adjuvant vaccine im,Seqirus,70461-0001-01,Fluad (Preservative Free) 2016/2017,0.5 ML,0.5,10,1,10
+90653,Iiv adjuvant vaccine im,Seqirus,70461-0002-01,Fluad (Preservative Free) 2017/2018,0.5 ML,0.5,10,1,10
+90656,IIV3 VACC NO PRSV 0.5 ML IM,Seqirus,33332-0016-01,Afluria (Preservative Free) 2016/2017,0.5 ML,0.5,10,1,10
+90656,IIV3 VACC NO PRSV 0.5 ML IM,Seqirus,33332-0017-01,Afluria (Preservative Free) 2017/2018,0.5 ML,0.5,10,1,10
+90656,IIV3 VACC NO PRSV 0.5 ML IM,Seqirus,70461-0119-02,Fluvirin (Preservative Free) 2016/2017,0.5 ML,0.5,10,1,10
+90656,IIV3 VACC NO PRSV 0.5 ML IM,Seqirus,70461-0120-02,Fluvirin (Preservative Free) 2017/2018,0.5 ML,0.5,10,1,10
+90662,Iiv no prsv increased ag im,Sanofi Pasteur,49281-0399-65,Fluzone High-Dose (Preservative Free) 2016/2017,0.5 ML,0.5,10,1,10
+90662,Iiv no prsv increased ag im,Sanofi Pasteur,49281-0401-65,Fluzone High-Dose (Preservative Free) 2017/2018,0.5 ML,0.5,10,1,10
+90670,PCV13 VACCINE IM,Wyeth/PFIZER U.S.,00005-1971-02,Prevnar - 13,0.5 ML,0.5,10,1,10
+90670,PCV13 VACCINE IM,Wyeth/PFIZER U.S.,00005-1971-04,Prevnar - 13,0.5 ML,0.5,1,1,1
+90670,PCV13 VACCINE IM,Wyeth/PFIZER U.S.,00005-1971-05,Prevnar - 13,0.5 ML,0.5,1,1,1
+90672,Laiv4 vaccine intranasal,"MedImmune, LLC",66019-0303-10,Flumist Quadrivalent 2016/2017,0.2 ML,0.2,10,1,10
+90673,Riv3 vaccine no preserv im,Protein Sciences,42874-0017-10,Flublok (Preservative Free) 2017/2018,0.5 ML,0.5,10,1,10
+90673,Riv3 vaccine no preserv im,Protein Sciences,42874-0016-10,Flublok (Preservative Free) 2016/2017,0.5 ML,0.5,10,1,10
+90674,CCIIV4 VAC NO PRSV 0.5 ML IM,Seqirus,70461-0200-01,Flucelvax Quadrivalent (Preservative Free) 2016/2017,0.5 ML,0.5,10,1,10
+90674,CCIIV4 VAC NO PRSV 0.5 ML IM,Seqirus,70461-0201-01,Flucelvax Quadrivalent (Preservative Free) 2017/2018,0.5 ML,0.5,10,1,10
+90682,RIV4 VACC RECOMBINANT DNA IM,Protein Sciences,42874-0117-10,Flublok Quadrivalent (Preservative Free) 2017/2018,0.5 ML,0.5,10,1,10
+90685,IIV4 VACC NO PRSV 0.25 ML IM,Sanofi Pasteur,49281-0517-25,Fluzone Quadrivalent (Preservative Free) 2017/2018,0.25 ML,0.25,10,1,10
+90685,IIV4 VACC NO PRSV 0.25 ML IM,Sanofi Pasteur,49281-0516-25,Fluzone Quadrivalent (Preservative Free) 2016/2017,0.25 ML,0.25,10,1,10
+90686,IIV4 VACC NO PRSV 0.5 ML IM,ID Biomedical,33332-0317-01,Afluria Quadrivalent (Preservative Free) 2017/2018,0.5 ML,0.5,10,1,10
+90686,IIV4 VACC NO PRSV 0.5 ML IM,GlaxoSmithKline,58160-0905-52,Fluarix Quadrivalent (Preservative Free) 2016/2017,0.5 ML,0.5,10,1,10
+90686,IIV4 VACC NO PRSV 0.5 ML IM,ID Biomedical,58160-0907-52,Fluarix Quadrivalent (Preservative Free) 2017/2018,0.5 ML,0.5,10,1,10
+90686,IIV4 VACC NO PRSV 0.5 ML IM,ID Biomedical,19515-0908-52,Flulaval Quadrivalent (Preservative Free) 2016/2017,0.5 ML,0.5,10,1,10
+90686,IIV4 VACC NO PRSV 0.5 ML IM,ID Biomedical,19515-0912-52,Flulaval Quadrivalent (Preservative Free) 2017/2018,0.5 ML,0.5,10,1,10
+90686,IIV4 VACC NO PRSV 0.5 ML IM,Sanofi Pasteur,49281-0416-10,Fluzone Quadrivalent (Preservative Free) 2016/2017,0.5 ML,0.5,10,1,10
+90686,IIV4 VACC NO PRSV 0.5 ML IM,Sanofi Pasteur,49281-0416-50,Fluzone Quadrivalent (Preservative Free) 2016/2017,0.5 ML,0.5,10,1,10
+90686,IIV4 VACC NO PRSV 0.5 ML IM,ID Biomedical,49281-0417-50,Fluzone Quadrivalent (Preservative Free) 2017/2018,0.5 ML,0.5,10,1,10
+90686,IIV4 VACC NO PRSV 0.5 ML IM,ID Biomedical,49281-0417-10,Fluzone Quadrivalent (Preservative Free) 2017/2018,0.5 ML,0.5,10,1,10
+90687,IIV4 VACCINE SPLT 0.25 ML IM,Sanofi Pasteur,49281-0625-15,Fluzone Quadrivalent 2016/2017,0.25 ML,5,1,20,20
+90687,IIV4 VACCINE SPLT 0.25 ML IM,Sanofi Pasteur,49281-0627-15,Fluzone Quadrivalent 2017/2018,0.25 ML,5,1,20,20
+90688,IIV4 VACCINE SPLT 0.5 ML IM,ID Biomedical,33332-0417-10,Afluria Quadrivalent 2017/2018,0.5 ML,5,1,10,10
+90688,IIV4 VACCINE SPLT 0.5 ML IM,ID Biomedical,19515-0903-11,Flulaval Quadrivalent 2016/2017,0.5 ML,5,1,10,10
+90688,IIV4 VACCINE SPLT 0.5 ML IM,ID Biomedical,19515-0896-11,Flulaval Quadrivalent 2017/2018,0.5 ML,5,1,10,10
+90688,IIV4 VACCINE SPLT 0.5 ML IM,Sanofi Pasteur,49281-0625-15,Fluzone Quadrivalent 2016/2017,0.5 ML,5,1,10,10
+90688,IIV4 VACCINE SPLT 0.5 ML IM,ID Biomedical,49281-0627-15,Fluzone Quadrivalent 2017/2018,0.5 ML,5,1,10,10
+90732,PPSV23 VACC 2 YRS+ SUBQ/IM,Merck,00006-4739-00,Pneumovax 23,0.5 ML,2.5,1,5,5
+90732,PPSV23 VACC 2 YRS+ SUBQ/IM,Merck,00006-4739-01,Pneumovax 23,0.5 ML,0.5,1,1,1
+90732,PPSV23 VACC 2 YRS+ SUBQ/IM,Merck,00006-4837-02,Pneumovax 23,0.5 ML,0.5,1,1,1
+90732,PPSV23 VACC 2 YRS+ SUBQ/IM,Merck,00006-4837-03,Pneumovax 23,0.5 ML,0.5,10,1,10
+90732,PPSV23 VACC 2 YRS+ SUBQ/IM,Merck,00006-4943-00,Pneumovax 23,0.5 ML,0.5,10,1,10
+90740,HEPB VACC 3 DOSE IMMUNSUP IM,GlaxoSmithKline,58160-0821-11,Engerix-B,40 MCG,1,10,0.5,5
+90740,HEPB VACC 3 DOSE IMMUNSUP IM,GlaxoSmithKline,58160-0821-43,Engerix-B,40 MCG,1,1,0.5,0.5
+90740,HEPB VACC 3 DOSE IMMUNSUP IM,GlaxoSmithKline,58160-0821-46,Engerix-B,40 MCG,1,5,0.5,2.5
+90740,HEPB VACC 3 DOSE IMMUNSUP IM,GlaxoSmithKline,58160-0821-52,Engerix-B,40 MCG,1,10,0.5,5
+90740,HEPB VACC 3 DOSE IMMUNSUP IM,Merck,00006-4992-00,Recombivax Hb,40 MCG,1,1,1,1
+90743,HEPB VACC 2 DOSE ADOLESC IM,GlaxoSmithKline,58160-0820-11,Engerix-B Pediatric,1 DOSE,0.5,10,1,10
+90743,HEPB VACC 2 DOSE ADOLESC IM,GlaxoSmithKline,58160-0820-46,Engerix-B Pediatric,1 DOSE,0.5,5,1,5
+90743,HEPB VACC 2 DOSE ADOLESC IM,Merck,00006-4094-02,Recombivax Hb,1 DOSE,1,10,1,10
+90743,HEPB VACC 2 DOSE ADOLESC IM,Merck,00006-4094-06,Recombivax Hb,1 DOSE,1,6,6,6
+90743,HEPB VACC 2 DOSE ADOLESC IM,Merck,00006-4094-09,Recombivax Hb,1 DOSE,1,6,6,6
+90743,HEPB VACC 2 DOSE ADOLESC IM,Merck,00006-4094-31,Recombivax Hb,1 DOSE,1,1,1,1
+90743,HEPB VACC 2 DOSE ADOLESC IM,Merck,00006-4995-00,Recombivax Hb,1 DOSE,1,1,1,1
+90743,HEPB VACC 2 DOSE ADOLESC IM,Merck,00006-4995-41,Recombivax Hb,1 DOSE,1,10,1,10
+90744,HEPB VACC 3 DOSE PED/ADOL IM,GlaxoSmithKline,58160-0820-11,Engerix-B Pediatric,1 DOSE,0.5,10,1,10
+90744,HEPB VACC 3 DOSE PED/ADOL IM,GlaxoSmithKline,58160-0820-46,Engerix-B Pediatric,1 DOSE,0.5,5,1,5
+90744,HEPB VACC 3 DOSE PED/ADOL IM,GlaxoSmithKline,58160-0820-52,Engerix-B Pediatric,1 DOSE,0.5,10,1,10
+90744,HEPB VACC 3 DOSE PED/ADOL IM,Merck,00006-4094-06,Recombivax Hb,1 DOSE,1,6,1,6
+90744,HEPB VACC 3 DOSE PED/ADOL IM,Merck,00006-4094-09,Recombivax Hb,1 DOSE,1,6,6,6
+90744,HEPB VACC 3 DOSE PED/ADOL IM,Merck,00006-4981-00,Recombivax Hb,1 DOSE,0.5,10,1,10
+90744,HEPB VACC 3 DOSE PED/ADOL IM,Merck,00006-4995-41,Recombivax Hb,1 DOSE,1,10,1,10
+90746,HEPB VACCINE 3 DOSE ADULT IM,GlaxoSmithKline,58160-0821-11,Engerix-B,1 EACH,1,10,1,10
+90746,HEPB VACCINE 3 DOSE ADULT IM,GlaxoSmithKline,58160-0821-43,Engerix-B,1 EACH,1,1,1,1
+90746,HEPB VACCINE 3 DOSE ADULT IM,GlaxoSmithKline,58160-0821-46,Engerix-B,1 EACH,1,5,1,5
+90746,HEPB VACCINE 3 DOSE ADULT IM,GlaxoSmithKline,58160-0821-52,Engerix-B,1 EACH,1,10,1,10
+90746,HEPB VACCINE 3 DOSE ADULT IM,Merck,00006-4094-02,Recombivax Hb,1 EACH,1,10,1,10
+90746,HEPB VACCINE 3 DOSE ADULT IM,Merck,00006-4094-06,Recombivax Hb,1 DOSE,1,6,1,6
+90746,HEPB VACCINE 3 DOSE ADULT IM,Merck,00006-4094-09,Recombivax Hb,1 DOSE,1,6,1,6
+90746,HEPB VACCINE 3 DOSE ADULT IM,Merck,00006-4094-31,Recombivax Hb,1 DOSE,1,1,1,1
+90746,HEPB VACCINE 3 DOSE ADULT IM,Merck,00006-4995-00,Recombivax Hb,1 EACH,1,1,1,1
+90746,HEPB VACCINE 3 DOSE ADULT IM,Merck,00006-4995-41,Recombivax Hb,1 EACH,1,10,1,10
+90747,HEPB VACC 4 DOSE IMMUNSUP IM,GlaxoSmithKline,58160-0821-11,Engerix-B,40 MCG,1,10,0.5,5
+90747,HEPB VACC 4 DOSE IMMUNSUP IM,GlaxoSmithKline,58160-0821-43,Engerix-B,40 MCG,1,1,0.5,0.5
+90747,HEPB VACC 4 DOSE IMMUNSUP IM,GlaxoSmithKline,58160-0821-46,Engerix-B,40 MCG,1,5,0.5,2.5
+90747,HEPB VACC 4 DOSE IMMUNSUP IM,GlaxoSmithKline,58160-0821-52,Engerix-B,40 MCG,1,10,0.5,5
+90747,HEPB VACC 4 DOSE IMMUNSUP IM,Merck,00006-4992-00,Recombivax Hb,40 MCG,1,1,1,1
+90756,CCIIV4 VACC ABX FREE IM,Seqirus,70461-0301-10,Flucelvax Quadrivalent 2017/2018,0.5 ML,5,1,10,10
+P9041,"Albumin (human),5%, 50ml",Kedrion Biopharma,76125-0785-05,Albuked 5,50 ML,50,1,1,1
+P9041,"Albumin (human),5%, 50ml",Kedrion Biopharma,76125-0785-25,Albuked 5,50 ML,250,1,5,5
+P9041,"Albumin (human),5%, 50ml",Octapharma USA,67467-0623-01,Albumin,50 ML,100,1,2,2
+P9041,"Albumin (human),5%, 50ml",Grifols,68516-5211-01,Albumin (Human),50 ML,250,1,5,5
+P9041,"Albumin (human),5%, 50ml",Grifols,68516-5211-02,Albumin (Human),50 ML,500,1,10,10
+P9041,"Albumin (human),5%, 50ml",Octapharma USA,68982-0623-01,ALBUMIN (HUMAN),50 ML,100,1,2,2
+P9041,"Albumin (human),5%, 50ml",Octapharma USA,68982-0623-02,ALBUMIN (HUMAN),50 ML,250,1,5,5
+P9041,"Albumin (human),5%, 50ml",Octapharma USA,68982-0623-03,ALBUMIN (HUMAN),50 ML,500,1,10,10
+P9041,"Albumin (human),5%, 50ml",Octapharma USA,68209-0623-02,"Albumin 5%, 12.5 g in 250 ml",50 ML,250,1,5,5
+P9041,"Albumin (human),5%, 50ml",Octapharma USA,68209-0623-03,"Albumin 5%, 25 g in 500 ml",50 ML,500,1,10,10
+P9041,"Albumin (human),5%, 50ml",Octapharma USA,67467-0623-03,"Albumin 5%, 25gr",50 ML,500,1,10,10
+P9041,"Albumin (human),5%, 50ml",Octapharma USA,68209-0623-01,"Albumin 5%, 5 g in 100 ml",50 ML,100,1,2,2
+P9041,"Albumin (human),5%, 50ml",Octapharma USA,67467-0623-02,"Albumin, 12.5gr",50 ML,250,1,5,5
+P9041,"Albumin (human),5%, 50ml",CSL Behring,00053-7670-31,Albuminar-5,50 ML,250,1,5,5
+P9041,"Albumin (human),5%, 50ml",CSL Behring,00053-7670-32,Albuminar-5,50 ML,500,1,10,10
+P9041,"Albumin (human),5%, 50ml",Alpine Biologics,63546-0310-25,Albumin-Zlb,50 ML,250,1,5,5
+P9041,"Albumin (human),5%, 50ml",Alpine Biologics,63546-0310-50,Albumin-Zlb,50 ML,500,1,10,10
+P9041,"Albumin (human),5%, 50ml",CSL Behring,44206-0310-25,Alburx,50 ML,250,1,5,5
+P9041,"Albumin (human),5%, 50ml",CSL Behring,44206-0310-50,Alburx,50 ML,500,1,10,10
+P9041,"Albumin (human),5%, 50ml",Grifols,68516-5214-05,Albutein 5%,50 ML,50,1,1,1
+P9041,"Albumin (human),5%, 50ml",Grifols,68516-5214-01,Albutein®,50 ML,250,1,5,5
+P9041,"Albumin (human),5%, 50ml",Grifols,68516-5214-02,Albutein®  5% Albumin 500 ml,50 ML,500,1,10,10
+P9041,"Albumin (human),5%, 50ml",Baxter,00944-0491-01,Buminate,50 ML,250,1,5,5
+P9041,"Albumin (human),5%, 50ml",Baxter,00944-0491-02,Buminate,50 ML,500,1,10,10
+P9041,"Albumin (human),5%, 50ml",Talecris,13533-0685-20,Plasbumin-5,50 ML,50,1,1,1
+P9041,"Albumin (human),5%, 50ml",Talecris,13533-0685-25,Plasbumin-5,50 ML,250,1,5,5
+P9041,"Albumin (human),5%, 50ml",Talecris,13533-0690-20,Plasbumin-5,50 ML,50,1,1,1
+P9041,"Albumin (human),5%, 50ml",Talecris,13533-0690-25,Plasbumin-5,50 ML,250,1,5,5
+P9045,"Albumin (human), 5%, 250 ml",Kedrion Biopharma,76125-0785-25,Albuked 5,250 ML,250,1,1,1
+P9045,"Albumin (human), 5%, 250 ml",Kedrion Biopharma,76125-0790-25,Albuked 5,250 ML,250,1,1,1
+P9045,"Albumin (human), 5%, 250 ml",Octapharma USA,67467-0623-01,Albumin,250 ML,100,1,0.4,0.4
+P9045,"Albumin (human), 5%, 250 ml",Grifols,68516-5211-01,Albumin (Human),250 ML,250,1,1,1
+P9045,"Albumin (human), 5%, 250 ml",Grifols,68516-5211-02,Albumin (Human),250 ML,500,1,2,2
+P9045,"Albumin (human), 5%, 250 ml",Octapharma USA,68982-0623-02,ALBUMIN (HUMAN),250 ML,250,1,1,1
+P9045,"Albumin (human), 5%, 250 ml",Octapharma USA,68982-0623-03,ALBUMIN (HUMAN),250 ML,500,1,2,2
+P9045,"Albumin (human), 5%, 250 ml",Octapharma USA,68209-0623-02,"Albumin 5%, 12.5 g in 250 ml",250 ML,250,1,1,1
+P9045,"Albumin (human), 5%, 250 ml",Octapharma USA,68209-0623-03,"Albumin 5%, 25 g in 500 ml",250 ML,500,1,2,2
+P9045,"Albumin (human), 5%, 250 ml",Octapharma USA,67467-0623-03,"Albumin 5%, 25gr",250 ML,500,1,2,2
+P9045,"Albumin (human), 5%, 250 ml",Octapharma USA,68209-0623-01,"Albumin 5%, 5 g in 100 ml",250 ML,100,1,0.4,0.4
+P9045,"Albumin (human), 5%, 250 ml",Octapharma USA,67467-0623-02,"Albumin, 12.5gr",250 ML,250,1,1,1
+P9045,"Albumin (human), 5%, 250 ml",CSL Behring,00053-7670-03,Albuminar-5,250 ML,1000,1,4,4
+P9045,"Albumin (human), 5%, 250 ml",CSL Behring,00053-7670-31,Albuminar-5,250 ML,250,1,1,1
+P9045,"Albumin (human), 5%, 250 ml",CSL Behring,00053-7670-32,Albuminar-5,250 ML,500,1,2,2
+P9045,"Albumin (human), 5%, 250 ml",Alpine Biologics,63546-0310-25,Albumin-Zlb,250 ML,250,1,1,1
+P9045,"Albumin (human), 5%, 250 ml",Alpine Biologics,63546-0310-50,Albumin-Zlb,250 ML,500,1,2,2
+P9045,"Albumin (human), 5%, 250 ml",CSL Behring,44206-0310-25,Alburx,250 ML,250,1,1,1
+P9045,"Albumin (human), 5%, 250 ml",CSL Behring,44206-0310-50,Alburx,250 ML,500,1,2,2
+P9045,"Albumin (human), 5%, 250 ml",Grifols,68516-5214-02,Albutein®  5% Albumin 500 ml,250 ML,500,1,2,2
+P9045,"Albumin (human), 5%, 250 ml",Grifols,68516-5214-01,Albutein® 5%,250 ML,250,1,1,1
+P9045,"Albumin (human), 5%, 250 ml",Baxter,00944-0491-01,Buminate,250 ML,250,1,1,1
+P9045,"Albumin (human), 5%, 250 ml",Baxter,00944-0491-02,Buminate,250 ML,500,1,2,2
+P9045,"Albumin (human), 5%, 250 ml",Talecris,13533-0685-20,Plasbumin-5,250 ML,50,1,0.2,0.2
+P9045,"Albumin (human), 5%, 250 ml",Talecris,13533-0685-25,Plasbumin-5,250 ML,250,1,1,1
+P9045,"Albumin (human), 5%, 250 ml",Talecris,13533-0690-20,Plasbumin-5,250 ML,50,1,0.2,0.2
+P9045,"Albumin (human), 5%, 250 ml",Talecris,13533-0690-25,Plasbumin-5,250 ML,250,1,1,1
+P9046,"Albumin (human), 25%, 20 ml",Kedrion Biopharma,76125-0784-10,Albuked 25,20 ML,100,1,5,5
+P9046,"Albumin (human), 25%, 20 ml",Kedrion Biopharma,76125-0784-25,Albuked 25,20 ML,50,1,2.5,2.5
+P9046,"Albumin (human), 25%, 20 ml",Octapharma USA,67467-0643-01,Albumin,20 ML,50,1,2.5,2.5
+P9046,"Albumin (human), 25%, 20 ml",Octapharma USA,67467-0643-02,Albumin,20 ML,100,1,5,5
+P9046,"Albumin (human), 25%, 20 ml",Octapharma USA,68982-0643-01,ALBUMIN (HUMAN),20 ML,50,1,2.5,2.5
+P9046,"Albumin (human), 25%, 20 ml",Octapharma USA,68982-0643-02,ALBUMIN (HUMAN),20 ML,100,1,5,5
+P9046,"Albumin (human), 25%, 20 ml",Octapharma USA,68209-0643-01,"Albumin 25%, 12.5 g in 50 ml",20 ML,50,1,2.5,2.5
+P9046,"Albumin (human), 25%, 20 ml",Octapharma USA,68209-0643-02,"Albumin 25%, 25 g in 100 ml",20 ML,100,1,5,5
+P9046,"Albumin (human), 25%, 20 ml",Alpine Biologics,63546-0251-05,Albumin-Alpine,20 ML,50,1,2.5,2.5
+P9046,"Albumin (human), 25%, 20 ml",Alpine Biologics,63546-0251-10,Albumin-Alpine,25 ML,100,1,5,5
+P9046,"Albumin (human), 25%, 20 ml",CSL Behring,00053-7680-01,Albuminar-25,20 ML,20,1,1,1
+P9046,"Albumin (human), 25%, 20 ml",CSL Behring,00053-7680-32,Albuminar-25,20 ML,50,1,2.5,2.5
+P9046,"Albumin (human), 25%, 20 ml",CSL Behring,00053-7680-33,Albuminar-25,20 ML,100,1,5,5
+P9046,"Albumin (human), 25%, 20 ml",CSL Behring,44206-0251-05,Alburx,20 ML,50,1,2.5,2.5
+P9046,"Albumin (human), 25%, 20 ml",CSL Behring,44206-0251-10,Alburx,20 ML,100,1,5,5
+P9046,"Albumin (human), 25%, 20 ml",Grifols,68516-5216-05 ,Albutein 25%,20 ML,20,1,1,1
+P9046,"Albumin (human), 25%, 20 ml",Grifols,61953-0002-01,Albutein®,20 ML,50,1,2.5,2.5
+P9046,"Albumin (human), 25%, 20 ml",Grifols,61953-0002-02,Albutein®,20 ML,100,1,5,5
+P9046,"Albumin (human), 25%, 20 ml",Grifols,68516-5216-02,Albutein® 25% Albumin 100 ml,20 ML,100,1,5,5
+P9046,"Albumin (human), 25%, 20 ml",Baxter,00944-0490-01,Buminate,20 ML,20,1,1,1
+P9046,"Albumin (human), 25%, 20 ml",Baxter,00944-0490-02,Buminate,20 ML,50,1,2.5,2.5
+P9046,"Albumin (human), 25%, 20 ml",Baxter,00944-0490-03,Buminate,20 ML,100,1,5,5
+P9046,"Albumin (human), 25%, 20 ml",Baxter,00944-0493-01,Flexbumin,20 ML,50,1,2.5,2.5
+P9046,"Albumin (human), 25%, 20 ml",Baxter,00944-0493-02,Flexbumin,20 ML,100,1,5,5
+P9046,"Albumin (human), 25%, 20 ml",Kedrion Biopharma,76179-0025-01,KEDBUMIN,20 ML,50,1,2.5,2.5
+P9046,"Albumin (human), 25%, 20 ml",Kedrion Biopharma,76179-0025-02,KEDBUMIN,20 ML,50,1,2.5,2.5
+P9046,"Albumin (human), 25%, 20 ml",Talecris,13533-0684-16,Plasbumin-25,20 ML,20,1,1,1
+P9046,"Albumin (human), 25%, 20 ml",Talecris,13533-0684-20,Plasbumin-25,20 ML,50,1,2.5,2.5
+P9046,"Albumin (human), 25%, 20 ml",Talecris,13533-0684-71,Plasbumin-25,20 ML,100,1,5,5
+P9046,"Albumin (human), 25%, 20 ml",Talecris,13533-0692-16,Plasbumin-25,20 ML,20,1,1,1
+P9046,"Albumin (human), 25%, 20 ml",Talecris,13533-0692-20,Plasbumin-25,20 ML,50,1,2.5,2.5
+P9046,"Albumin (human), 25%, 20 ml",Talecris,13533-0692-71,Plasbumin-25,20 ML,100,1,5,5
+P9047,"Albumin (human), 25%, 50ml",Kedrion Biopharma,76125-0784-10,Albuked 25,50 ML,100,1,2,2
+P9047,"Albumin (human), 25%, 50ml",Kedrion Biopharma,76125-0784-25,Albuked 25,50 ML,50,1,1,1
+P9047,"Albumin (human), 25%, 50ml",Octapharma USA,67467-0643-01,Albumin,50 ML,50,1,1,1
+P9047,"Albumin (human), 25%, 50ml",Octapharma USA,68982-0643-01,ALBUMIN (HUMAN),50 ML,50,1,1,1
+P9047,"Albumin (human), 25%, 50ml",Octapharma USA,68982-0643-02,ALBUMIN (HUMAN),50 ML,100,1,2,2
+P9047,"Albumin (human), 25%, 50ml",Octapharma USA,67467-0643-02,Albumin (Human) 25%,50 ML,100,1,2,2
+P9047,"Albumin (human), 25%, 50ml",Octapharma USA,68209-0643-01,"Albumin 25%, 12.5 g in 50 ml",50 ML,50,1,1,1
+P9047,"Albumin (human), 25%, 50ml",Octapharma USA,68209-0643-02,"Albumin 25%, 25 g in 100 ml",50 ML,100,1,2,2
+P9047,"Albumin (human), 25%, 50ml",CSL Behring,00053-7680-32,Albuminar-25,50 ML,50,1,1,1
+P9047,"Albumin (human), 25%, 50ml",CSL Behring,00053-7680-33,Albuminar-25,50 ML,100,1,2,2
+P9047,"Albumin (human), 25%, 50ml",Alpine Biologics,63546-0251-05,Albumin-Zlb,50 ML,50,1,1,1
+P9047,"Albumin (human), 25%, 50ml",Alpine Biologics,63546-0251-10,Albumin-Zlb,50 ML,100,1,2,2
+P9047,"Albumin (human), 25%, 50ml",CSL Behring,44206-0251-05,Alburx,50 ML,50,1,1,1
+P9047,"Albumin (human), 25%, 50ml",CSL Behring,44206-0251-10,Alburx,50 ML,100,1,2,2
+P9047,"Albumin (human), 25%, 50ml",Grifols,68516-5216-01,Albutein® 25%,50 ML,50,1,1,1
+P9047,"Albumin (human), 25%, 50ml",Grifols,68516-5216-02,Albutein® 25% Albumin 100 ml,50 ML,100,1,2,2
+P9047,"Albumin (human), 25%, 50ml",Baxter,00944-0490-01,Buminate,50 ML,20,1,0.4,0.4
+P9047,"Albumin (human), 25%, 50ml",Baxter,00944-0490-02,Buminate,50 ML,50,1,1,1
+P9047,"Albumin (human), 25%, 50ml",Baxter,00944-0490-03,Buminate,50 ML,100,1,2,2
+P9047,"Albumin (human), 25%, 50ml",Baxter,00944-0493-01,Flexbumin,50 ML,50,1,1,1
+P9047,"Albumin (human), 25%, 50ml",Baxter,00944-0493-02,Flexbumin,50 ML,100,1,1,2
+P9047,"Albumin (human), 25%, 50ml",Grifols,61953-0002-01,Human Albumin Grifols,50 ML,50,1,1,1
+P9047,"Albumin (human), 25%, 50ml",Grifols,61953-0002-02,Human Albumin Grifols,50 ML,100,1,2,2
+P9047,"Albumin (human), 25%, 50ml",Kedrion Biopharma,76179-0025-01,KEDBUMIN,50 ML,50,1,1,1
+P9047,"Albumin (human), 25%, 50ml",Kedrion Biopharma,76179-0025-02,KEDBUMIN,50 ML,50,1,1,1
+P9047,"Albumin (human), 25%, 50ml",Talecris,13533-0684-16,Plasbumin-25,50 ML,20,1,0.4,0.4
+P9047,"Albumin (human), 25%, 50ml",Talecris,13533-0684-20,Plasbumin-25,50 ML,50,1,1,1
+P9047,"Albumin (human), 25%, 50ml",Talecris,13533-0684-71,Plasbumin-25,50 ML,100,1,2,2
+P9047,"Albumin (human), 25%, 50ml",Talecris,13533-0692-16,Plasbumin-25,50 ML,20,1,0.4,0.4
+P9047,"Albumin (human), 25%, 50ml",Talecris,13533-0692-20,Plasbumin-25,50 ML,50,1,1,1
+P9047,"Albumin (human), 25%, 50ml",Talecris,13533-0692-71,Plasbumin-25,50 ML,100,1,2,2
+Q2035,"Afluria vacc, 3 yrs & >, im",Seqirus,33332-0116-10,Afluria 2016/2017,0.5 ML,5,1,10,10
+Q2035,"Afluria vacc, 3 yrs & >, im",Seqirus,33332-0117-10,Afluria 2017/2018,0.5 ML,5,1,10,10
+Q2037,"Fluvirin vacc, 3 yrs & >, im",Seqirus,70461-0119-10,Fluvirin 2016/2017,0.5 ML,5,1,10,10
+Q2037,"Fluvirin vacc, 3 yrs & >, im",Seqirus,70461-0120-10,Fluvirin 2017/2018,0.5 ML,5,1,10,10

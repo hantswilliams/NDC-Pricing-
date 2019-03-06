@@ -1,0 +1,21 @@
+The drug database that contains pricing is: 
+NADAC - National Pharmacy Pricing Database
+Based on NADAC (National Average Drug Acquisition Cost
+
+https://data.medicaid.gov/Drug-Pricing-and-Payment/National-Pharmacy-Pricing-Database-xls/uima-szn8
+
+This link above provies NDC numbers, with corresponding NADAC_per_unit
+Note - the per unit is per ingestion / pill for example 
+So will need to also bring in other NDC data that relates to the package 
+description for that drug 
+
+This website here also has useful information, more HISTORICAL data: 
+https://www.medicaid.gov/medicaid/prescription-drugs/pharmacy-pricing/index.html
+
+This is a blogpost/github post that has some code about this stuff: 
+https://griffincalme.github.io/NADAC_kde/
+
+THIS IS THE LOCATION FOR DOWNLOADING THE FDA VERSION OF THE NDC CODES 
+https://open.fda.gov/data/ndc/
+
+
